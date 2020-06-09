@@ -5,6 +5,6 @@ end
 
 def using_insert(array, new_element)
   array = []
-  array[4].insert(new_element)
+  array[4].insert new_element
 
 end
